@@ -1,5 +1,1 @@
-
-432234L.WORLD =
-  (DESCRIPTION =
-    (ADDRESS_LISTfdsa
-  )
+fdasfdsa
