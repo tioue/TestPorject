@@ -1,10 +1,4 @@
-
-432234L.WORLD =
-  (DESCRIPTION =
-    (ADDRESS_LIST =
-      12321321S)(ADD32432
-    )
-    (CONNECT_DATA =
-      (SID = 342432)
-    )
-  )
+umount -f /home/admtm/apps/report
+umount -f /home/admtm/apps/temp
+umount -f /home/admtm/apps/files
+umount -f /home/admtm/apps/log/userlog
