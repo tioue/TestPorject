@@ -1,10 +1,5 @@
 
 432234L.WORLD =
   (DESCRIPTION =
-    (ADDRESS_LIST =
-      12321321S)(ADD32432
-    )
-    (CONNECT_DATA =
-      (SID = 342432)
-    )
+    (ADDRESS_LISTfdsa
   )
