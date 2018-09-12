@@ -1,6 +1,8 @@
 nononono
 umount -f /home/admtm/apps/report
-umount -f /home/admtm/apps/temp
+umount -f /home/admtm222/apps/temp
 umount -f /home/admtm/apps/files
+nolll
 umount -f /home/admtm/apps/log/userlog
 123
+Addnew
